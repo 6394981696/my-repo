@@ -32,9 +32,8 @@ nav {
    justify-content: space-between; 
    flex-wrap: wrap;
    position: fixed;   
- 
-  justify-content: space-between;
-  align-items: center;
+  /*justify-content: space-between;
+  align-items: center;*/
    
   
 }
@@ -42,9 +41,9 @@ nav{
   display: flex;
   align-items: center; 
   justify-content: space-between; 
-  flex-wrap: wrap; 
+  /*flex-wrap: wrap; 
    top: 0;
-  width: 100%;  
+  width: 100%;  */
 }
 
 
@@ -87,7 +86,7 @@ nav ul li a:hover::after {
   font-size: 20px;
 }
 .header-text h1 span {
-  color: blue;
+  color: red;
 }
 .resume a {
   color: rgb(0, 0, 124);
