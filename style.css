@@ -86,7 +86,7 @@ nav ul li a:hover::after {
   font-size: 20px;
 }
 .header-text h1 span {
-  color: red;
+  color: blue;
 }
 .resume a {
   color: rgb(0, 0, 124);
